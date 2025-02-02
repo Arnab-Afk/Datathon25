@@ -1,6 +1,6 @@
 const Nav = () => {
   const onLogin = () => {
-    window.location.href = 'https://small-mouse-2759.arnabbhowmik019.workers.dev/google/auth/ads-search-console?redirect_url=http://localhost:5173/login'
+    window.location.href = 'https://small-mouse-2759.arnabbhowmik019.workers.dev/google/auth/ads-search-console?redirect_url=https://campify.thearnab.tech/login'
   }
   return (
     <nav className='bg-white shadow-md'>
